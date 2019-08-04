@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "upgradeWeapon",
+    "texture": "14420325-a6d0-4132-9a2b-86cad97b76bd",
+    "atlas": "",
+    "rect": [
+      2,
+      5,
+      418,
+      165
+    ],
+    "offset": [
+      1,
+      -2.5
+    ],
+    "originalSize": [
+      420,
+      170
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
